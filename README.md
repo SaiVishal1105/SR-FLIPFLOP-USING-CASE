@@ -34,7 +34,16 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+### Step-1:
+Type the program in Quartus software.
+### Step-2:
+Compile and run the program.
+### Step-3:
+Generate the RTL schematic and save the logic diagram.
+### Step-4:
+Create nodes for inputs and outputs to generate the timing diagram.
+### Step-5:
+For different input combinations generate the timing diagram.
 
 **PROGRAM**
 ```
