@@ -67,6 +67,8 @@ else begin
 ![Screenshot 2024-04-18 091638](https://github.com/SaiVishal1105/SR-FLIPFLOP-USING-CASE/assets/145742557/426a1c92-63de-4b7a-8408-72d17f34559c)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![image](https://github.com/SaiVishal1105/SR-FLIPFLOP-USING-CASE/assets/145742557/acc53f59-9674-439f-ac30-08430f70f1bb)
+
 
 **RESULTS**
 SR flipflop using verilog and validating their functionality using their functional tables has been implemented successfully.
